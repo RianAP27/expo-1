@@ -136,6 +136,6 @@ def update_local_gallery():
 if __name__ == "__main__":
     print("🤖 Bot Telegram aktif...")
     try:
-        bot.polling(none_stop=True, interval=0, timeout=20)
+        #bot.polling(none_stop=True, interval=0, timeout=20)
     except Exception as e:
         print(f"🔥 Error saat menjalankan bot: {e}")
