@@ -26,7 +26,7 @@ ANIMAL_DATA = {
     "images/capung.jpg": "Seperti capung, kamu hadir sebentar tapi selalu meninggalkan kesan 🌟",
     "images/katak.jpg": "Katak paling rame di rawa—udah kayak MC kondangan 🐸🔊",
     "images/buaya.jpg": "Buaya darat kelas kakap—tampang tenang, tapi DM-nya rame"
-    "images/buaya.jpg": "Ular pendiam yang cuma gigit kalau kamu mulai duluan 🐍"
+    "images/ular.jpg": "Ular pendiam yang cuma gigit kalau kamu mulai duluan 🐍"
     "images/burhan.jpg": "Burung Hantu, Tahu segalanya, tapi gak semua harus dijawab... bijak ya"
 }
 
